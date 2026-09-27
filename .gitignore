@@ -38,3 +38,27 @@ src/main/resources/skip-traps-firebase-adminsdk-fbsvc-925021dd4d.json
 application-local.properties
 application-local.yml
 application-local.yaml
+
+# Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Firebase Admin SDK credentials
+src/main/resources/*firebase-adminsdk*.json

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "nl",
+    "name": "Newfoundland and Labrador",
+    "abbreviation": "NL",
+    "activities": []
+  },
+  {
+    "id": "ab",
+    "name": "Alberta",
+    "abbreviation": "AB",
+    "activities": []
+  },
+  {
+    "id": "bc",
+    "name": "British Columbia",
+    "abbreviation": "BC",
+    "activities": []
+  },
+  {
+    "id": "mb",
+    "name": "Manitoba",
+    "abbreviation": "MB",
+    "activities": []
+  },
+  {
+    "id": "nb",
+    "name": "New Brunswick",
+    "abbreviation": "NB",
+    "activities": []
+  }
+]

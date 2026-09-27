@@ -1,0 +1,112 @@
+{
+  "id": "ns",
+  "name": "Nova Scotia",
+  "abbreviation": "NS",
+  "activities": [
+    {
+      "id": "sin",
+      "title": "Apply for a SIN",
+      "summary": "Your Social Insurance Number — required to work and access benefits",
+      "icon": "Icons.Filled.Badge",
+      "tasks": [
+        {
+          "id": "sin-1",
+          "title": "Gather your documents",
+          "description": "Bring your passport plus your work permit, study permit, or PR card. If any document is not in English or French, bring a certified translation."
+        },
+        {
+          "id": "sin-2",
+          "title": "Apply through Service Canada",
+          "description": "Apply online at Canada.ca, by mail, or in person at a Service Canada Centre. In-person applications usually issue your SIN the same day."
+        },
+        {
+          "id": "sin-3",
+          "title": "Confirm your SIN letter",
+          "description": "You'll receive a confirmation of SIN letter rather than a physical card. Keep this letter somewhere safe — you'll need it for payroll and benefits forms."
+        },
+        {
+          "id": "sin-4",
+          "title": "Protect your SIN",
+          "description": "Only share your SIN with employers, financial institutions, and government agencies that are legally required to ask for it."
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "title": "Get a Health Card",
+      "summary": "Provincial health coverage so medical visits are covered",
+      "icon": "Icons.Filled.LocalHospital",
+      "tasks": [
+        {
+          "id": "health-1",
+          "title": "Check your waiting period",
+          "description": "Some provinces apply a waiting period (often up to 3 months) before coverage starts. Check the MSI website for NS's current rules, and consider private interim health insurance to cover the gap."
+        },
+        {
+          "id": "health-2",
+          "title": "Gather proof of identity and status",
+          "description": "You'll typically need your passport, immigration document (PR card, work or study permit), and proof you live in NS, such as a lease or utility bill."
+        },
+        {
+          "id": "health-3",
+          "title": "Apply for your MSI",
+          "description": "Submit your application to MSI, either online, by mail, or in person, depending on what your province offers."
+        },
+        {
+          "id": "health-4",
+          "title": "Carry your card once it arrives",
+          "description": "Bring your MSI to every medical appointment. Without it, clinics may charge you directly for visits."
+        }
+      ]
+    },
+    {
+      "id": "bank",
+      "title": "Open a Bank Account",
+      "summary": "Set up chequing, savings, and a newcomer banking package",
+      "icon": "Icons.Filled.AccountBalance",
+      "tasks": []
+    },
+    {
+      "id": "license",
+      "title": "Get a Driver's License",
+      "summary": "Exchange or apply for a licence to drive in your province",
+      "icon": "Icons.Filled.DirectionsCar",
+      "tasks": []
+    },
+    {
+      "id": "housing",
+      "title": "Find Housing",
+      "summary": "Search listings, understand leases, and avoid rental scams",
+      "icon": "Icons.Filled.Home",
+      "tasks": []
+    },
+    {
+      "id": "phone",
+      "title": "Get Phone & Internet",
+      "summary": "Compare carriers and set up a mobile and home internet plan",
+      "icon": "Icons.Filled.Wifi",
+      "tasks": []
+    },
+    {
+      "id": "tax",
+      "title": "Register for Taxes",
+      "summary": "Set up a CRA My Account and understand your filing obligations",
+      "icon": "Icons.Filled.Receipt",
+      "tasks": []
+    },
+    {
+      "id": "doctor",
+      "title": "Find a Family Doctor",
+      "summary": "Get on a patient registry and know your options for care",
+      "icon": "Icons.Filled.MedicalServices",
+      "tasks": []
+    },
+    {
+      "id": "transit",
+      "title": "Learn Public Transit",
+      "summary": "Understand fares, transit apps, and getting around your city",
+      "icon": "Icons.Filled.DirectionsBus",
+      "tasks": []
+    }
+  ]
+}

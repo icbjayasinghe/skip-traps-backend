@@ -1,0 +1,16 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: skip-track-firestore
+  jackson:
+    default-property-inclusion: non_null
+
+firebase:
+  # Path to a service-account JSON key. Supports classpath: prefix or a plain filesystem path.
+  # Leave blank to fall back to GOOGLE_APPLICATION_CREDENTIALS / Application Default Credentials.
+  credentials:
+    path: src/main/resources/skip-traps-firebase-adminsdk-fbsvc-925021dd4d.json
+  # Optional: only needed if it can't be inferred from the credentials file.
+  project-id: skip-traps
